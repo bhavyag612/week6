@@ -7,5 +7,5 @@ h2+p{
 ul.list>li{
     list-style: none;
     border-bottom: 1px gray;
-    border-style: dashed;
+    border-bottom-style: dashed;
 }
