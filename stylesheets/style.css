@@ -28,9 +28,18 @@ li:first-child:first-letter{
 a[title="BCIT homepage"]{
     background-color: yellow;
 } */
-img{
+/* img{
     float:left;
 }
 .below{
     clear:both;
+} */
+.target {
+    width: 50px;
+    height: 50px;
+    background-color: forestgreen;
+}
+
+.container {
+    border: 2px gray solid;
 }
