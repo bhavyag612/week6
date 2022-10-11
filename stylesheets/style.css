@@ -9,3 +9,13 @@ ul.list>li{
     border-bottom: 1px gray;
     border-bottom-style: dashed;
 } */
+
+li a:link{
+    color:green;
+}
+li a:visited{
+    color: red;
+}
+li a:hover{
+    color:pink;
+}
